@@ -40,3 +40,7 @@ npm install express body-parser ejs
 
 # 4. Run the app
 node index.js
+```
+
+## 🎥 Demo Video
+![Demo](assets/demo.mp4)
