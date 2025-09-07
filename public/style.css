@@ -1,0 +1,14 @@
+body[data-bs-theme="light"] {
+  background-color: #f8f9fa; /* رمادي فاتح */
+  color: #212529;
+}
+
+body[data-bs-theme="dark"] {
+  background-color: #121212; /* أسود */
+  color: #f8f9fa;
+}
+
+.list-group-item[data-bs-theme="dark"] {
+  background-color: #1e1e1e;
+  color: #f8f9fa;
+}
