@@ -1,2 +1,2 @@
-*.ejs linguist-language=HTML
-*.js linguist-language=JavaScript
+*.ejs linguist-detectable=true
+*.js linguist-detectable=true
